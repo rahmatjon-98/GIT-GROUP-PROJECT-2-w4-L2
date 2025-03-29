@@ -1021,6 +1021,10 @@ video {
   border-width: 2px;
 }
 
+.border {
+  border-width: 1px;
+}
+
 .border-t-2 {
   border-top-width: 2px;
 }
@@ -1920,6 +1924,18 @@ video {
 
   .lg\:pt-\[35px\] {
     padding-top: 35px;
+  }
+
+  .lg\:pl-\[100px\] {
+    padding-left: 100px;
+  }
+
+  .lg\:pl-\[10px\] {
+    padding-left: 10px;
+  }
+
+  .lg\:pl-\[105px\] {
+    padding-left: 105px;
   }
 
   .lg\:text-\[111px\] {
